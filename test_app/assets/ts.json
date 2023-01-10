@@ -1,0 +1,24 @@
+{
+    "Anchor": [
+        {
+            "nickname": "张三",
+            "roomName": "测试房间",
+            "imageUrl": "https://alifei04.cfp.cn/creative/vcg/veer/1600water/veer-303764513.jpg"
+        },
+        {
+            "nickname": "李四",
+            "roomName": "测试房间",
+            "imageUrl": "https://alifei04.cfp.cn/creative/vcg/veer/1600water/veer-303764513.jpg"
+        },
+        {
+             "nickname": "王五",
+            "roomName": "测试房间",
+            "imageUrl": "https://alifei04.cfp.cn/creative/vcg/veer/1600water/veer-303764513.jpg"
+        },
+      {
+             "nickname": "赵六",
+            "roomName": "测试房间",
+            "imageUrl": "https://alifei04.cfp.cn/creative/vcg/veer/1600water/veer-303764513.jpg"
+        }
+    ]
+}
